@@ -5,7 +5,6 @@ Sou um desenvolvedor entusiasta que adora fazer mini projetos e mexer nas minhas
 ### Atualmente ocupado com:
 - 🚌 Coleção de scrapers de horarios de ônibus de todo o território de SC
 - 🧱 Engine de tetris para o terminal
-- 💻 Site de portifólio
 
 ### O que eu uso
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
